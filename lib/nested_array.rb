@@ -17,8 +17,7 @@ CONVENTIONAL_PRODUCE = [
 ]
 
 def assembled_matrix
-food_rack = [  CONVENTIONAL_PRODUCE, ORGANIC_PRODUCE,]
-food_rack
+[  CONVENTIONAL_PRODUCE, ORGANIC_PRODUCE,]
 end
  
 
